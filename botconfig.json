@@ -1,0 +1,20 @@
+{
+  "token": "NzY1ODY5MzAwMzI5ODczNDE4.X4bFXg.c-8h8AcE-UWQrcRvpc-ZKWK5ecg",
+  "prefix": "!",
+  "servernavn": "Lastbil1´s Butik",
+  "serverip": "178.63.236.4:30120",
+  "serverid": "702177513933111319",
+  "botspamtoggle": "true",
+  "botspamid": "702177514637885493",
+  "serverlistnavn": "[DK] Din farfar lugter",
+  "whitelistmessage": "https://discordapp.com/channels/702177513933111319/702185317238702182/702185330425593857",
+  "reglermessage": "https://discordapp.com/channels/702177513933111319/702185317238702182/702186459955855373",
+  "patreonlink": "https://www.patreon.com/fivem",
+  "donatormessage": "https://discordapp.com/channels/702177513933111319/702185317238702182/702186975314182215",
+  "website": "https://dinfarfar.dk/",
+  "ticketcategoryid": "702188561688035348",
+  "velkomstbesked": "Hej ${member}, velkommen til serveren og så noget :)",
+  "verifybesked": "Velkommen til SERVERNAVN, for at kunne åbne op for resten af discorden bedes du reagere nedenunder.",
+  "unverifiedroleid": "726554596801118209",
+  "logchannelname": "discord-logs"
+}
