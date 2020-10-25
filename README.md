@@ -70,4 +70,4 @@ Du skal være velkommen til at bruge min kode til din egen bot, det ville jeg sy
 Forstå mig ret, vil gerne hjælpe hvis folk har fejl, men føler også at jeg har forklaret alt hvad der skal forklares. Prøv gerne lidt selv inden i skriver til mig. 
 Hvis der er nogen fejl, hvilket der sikkert er, så skriv til mig på discord.
 
-# Lavet af Lastbil1#9999
+# Lavet af Ossie#4046
